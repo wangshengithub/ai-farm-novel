@@ -145,7 +145,6 @@ Below are excerpts from the actual text. No commentary — judge for yourself.
 > - Chapter 20 (May 1): First harvest
 > - Chapter 30 (May 12): Applies for testing
 > - Chapter 50 (June): Still recording how many millimeters seedlings grew each day
-> - Chapter 75 (August): Still analyzing nutrient percentages of mutant plants
 > - Chapter 100 (November): The agriculture association investigator finally shows up
 
 100 chapters, roughly 250,000 characters, covering 8 months of story time. A significant chunk of that is spent on daily watering routines and measurement logs.
@@ -203,7 +202,7 @@ I think people generally fall into two camps on AI writing:
 - "AI can write anything now, authors are doomed" — overreacting
 - "AI writing is obviously AI writing, nothing to worry about" — underestimating it
 
-The reality: AI *can* produce 780,000 characters with a complete structure and a readable story. But it *can't* write well — padding, templating, inconsistent characterization, these problems persist from start to finish. This is the actual level of top-tier models in 2025-2026. No hype, no hate.
+The reality: AI *can* produce 780,000 characters with a complete structure and a readable story. But it *can't* write well — padding, templating, inconsistent characterization, these problems persist from start to finish. This is the actual level of top-tier models . No hype, no hate.
 
 ### If you build AI
 

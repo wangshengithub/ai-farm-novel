@@ -1,0 +1,180 @@
+# 许可协议 / License
+
+**简体中文**
+
+---
+
+## 当前协议状态
+
+**以仓库内 [README.md](README.md) 中「许可协议（随捐赠解锁）」章节的描述为准。**
+当 README 中的协议声明与本文件冲突时，以 README 为准。
+
+---
+
+## GitHub 平台说明
+
+本协议的条款不影响 GitHub, Inc. 服务条款中授予 GitHub 用户的权利，包括但不限于查看和 fork 本仓库的权利。在 GitHub 平台允许的正常使用范围之外，适用以下条款。
+
+---
+
+## 协议条款
+
+### 第一阶段：保留所有权利（默认）
+
+在累计捐赠总额未达到 600 元人民币（CNY）之前，本仓库内所有内容（包括但不限于小说正文、大纲、设定等）适用以下条款：
+
+- **允许**：阅读、分享本仓库链接、推荐给他人、撰写文章讨论和分析本项目
+- **禁止**：复制正文内容、修改、二次创作、分发（包括商业用途和非商业用途）
+
+未经作者书面授权，上述禁止行为均构成侵权。
+
+### 第二阶段：CC BY-NC-SA 4.0
+
+当累计捐赠总额达到 600 元人民币（CNY）时，协议自动升级为 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**。
+
+注意：600 元仅覆盖本项目 AI API 调用成本的 45%，不包含任何人力和时间成本。
+
+在此协议下您可以：
+
+- **共享** — 在任何媒介以任何形式复制、发行本作品
+- **改编** — 修改、转换或以本作品为基础进行创作
+
+前提条件：
+
+- **署名（BY）** — 必须给出适当的署名，提供指向本仓库的链接，并标明是否对原作品作了修改
+- **非商业性使用（NC）** — 不得将本作品用于商业目的
+- **相同方式共享（SA）** — 在本作品基础上创作的新作品，必须采用相同的协议进行分发
+
+完整协议文本：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+
+### 第三阶段：CC BY 4.0
+
+当累计捐赠总额达到 1200 元人民币（CNY）时，协议自动升级为 **Creative Commons Attribution 4.0 International (CC BY 4.0)**。
+
+注意：1200 元仅覆盖 AI API 调用成本的 90%，仍未包含搭建项目、调试工具链、监督生成过程等大量人力和时间投入。换句话说，即便达到这个数字，作者依然是亏的。
+
+在此协议下您可以：
+
+- **共享** — 在任何媒介以任何形式复制、发行本作品
+- **改编** — 修改、转换或以本作品为基础进行创作
+- **商业使用** — 可将本作品用于商业目的
+
+前提条件：
+
+- **署名（BY）** — 必须给出适当的署名，提供指向本仓库的链接，并标明是否对原作品作了修改
+
+完整协议文本：https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hans
+
+### 协议不可逆
+
+一旦协议升级到某个阶段，**不会因后续情况回退**。本许可升级构成作者对不特定公众的不可撤销的单方承诺。即：如果累计捐赠达到 600 元后升级为 CC BY-NC-SA 4.0，即使后续无人继续捐赠，协议仍保持 CC BY-NC-SA 4.0，不会回退。
+
+升级前已按前一阶段协议分发的副本，继续受该阶段协议约束。升级后新获取的内容适用新协议。
+
+---
+
+## 捐赠进度查询
+
+当前捐赠累计总额以 [README.md](README.md) 中的公布数据为准。如需确认当前协议状态，可携带捐赠截图联系作者核实。
+
+---
+
+## 声明
+
+本项目内容（小说正文及大纲）由 AI 生成，根据 AI 服务提供方的协议条款，作者对本项目内容享有著作权。本许可协议仅授予使用权，不构成著作权转让。
+
+---
+
+## 适用法律与争议解决
+
+本协议适用中华人民共和国法律。因本协议引起的或与本协议有关的任何争议，双方应首先通过友好协商解决；协商不成的，任何一方均可向作者所在地有管辖权的人民法院提起诉讼。
+
+---
+
+**English**
+
+---
+
+## Current License Status
+
+**The license status is determined by the "许可协议（随捐赠解锁）" section in [README.md](README.md).**
+In the event of any conflict between this file and README.md, README.md takes precedence.
+
+---
+
+## GitHub Platform Notice
+
+The terms of this license do not affect the rights granted to GitHub users under GitHub, Inc.'s Terms of Service, including but not limited to the right to view and fork this repository. Beyond the normal usage permitted by the GitHub platform, the following terms apply.
+
+---
+
+## License Terms
+
+### Tier 1: All Rights Reserved (Default)
+
+Until cumulative donations reach 600 CNY, all content in this repository (including but not limited to novel chapters, outlines, and settings) is governed by the following terms:
+
+- **Permitted**: Reading, sharing links to this repository, recommending to others, writing articles discussing and analyzing this project
+- **Prohibited**: Copying chapter content, modifying, creating derivative works, distributing (both commercial and non-commercial)
+
+Any prohibited acts without written authorization from the author constitute copyright infringement.
+
+### Tier 2: CC BY-NC-SA 4.0
+
+When cumulative donations reach 600 CNY, the license automatically upgrades to **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+Note: 600 CNY covers only 45% of the AI API costs for this project, excluding any labor or time investment.
+
+Under this license you may:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution (BY)** — You must give appropriate credit, provide a link to this repository, and indicate if changes were made
+- **NonCommercial (NC)** — You may not use the material for commercial purposes
+- **ShareAlike (SA)** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+### Tier 3: CC BY 4.0
+
+When cumulative donations reach 1200 CNY, the license automatically upgrades to **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+Note: 1200 CNY covers only 90% of the AI API costs — it still does not account for the substantial time and effort spent on project setup, toolchain debugging, and generation supervision. In other words, even at this level, the author is still operating at a loss.
+
+Under this license you may:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercial
+
+Under the following terms:
+
+- **Attribution (BY)** — You must give appropriate credit, provide a link to this repository, and indicate if changes were made
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+### License Upgrades Are Irreversible
+
+Once the license upgrades to a tier, it **will not revert**. This license upgrade constitutes an irrevocable unilateral commitment by the author to the general public. For example, if cumulative donations reach 600 CNY and the license upgrades to CC BY-NC-SA 4.0, it will remain CC BY-NC-SA 4.0 even if no further donations are made.
+
+Copies distributed under a prior tier's license continue to be governed by that tier's terms. Content obtained after an upgrade is subject to the new license.
+
+---
+
+## Donation Progress
+
+The current cumulative donation total is published in [README.md](README.md). To verify the current license status, contact the author with a donation screenshot.
+
+---
+
+## Disclaimer
+
+The content of this project (novel text and outlines) was generated by AI. Under the AI service provider's terms of service, the author holds copyright over this content. This license grants usage rights only and does not constitute a transfer of copyright.
+
+---
+
+## Governing Law and Dispute Resolution
+
+This license is governed by the laws of the People's Republic of China. Any disputes arising from or relating to this license shall first be resolved through amicable negotiation; failing that, either party may bring a lawsuit before a people's court with jurisdiction at the author's place of residence.

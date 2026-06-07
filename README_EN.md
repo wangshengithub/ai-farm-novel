@@ -66,7 +66,7 @@ Below are excerpts from the actual text. No commentary — judge for yourself.
 >
 > Zhao Min: "Fang Yuan, you're so dedicated!"
 
-*— Chapter 50. Same group chat appears again later in the chapter, replies in a different order*
+*— Chapter 50*
 
 ---
 
@@ -83,10 +83,6 @@ Below are excerpts from the actual text. No commentary — judge for yourself.
 > Chapter 125: System uses a 【System:】format:
 >
 > 【System: Host, what are you hesitating about?】
->
-> Chapter 150: System suddenly has heart rate and blood pressure monitoring, sounds panicked:
->
-> "Warning! Heart rate has reached 128 beats per minute! Blood pressure: 155/100 mmHg!"
 >
 > Chapter 175: Both styles mixed together:
 >
@@ -181,6 +177,8 @@ Below are excerpts from the actual text. No commentary — judge for yourself.
 │   ├── 第0002章.md
 │   ├── ...
 │   └── 第0320章.md
+├── README.md
+├── README_EN.md
 ├── 微信.png                  # WeChat support
 └── 支付宝.jpg                # Alipay support
 ```
@@ -202,7 +200,7 @@ I think people generally fall into two camps on AI writing:
 - "AI can write anything now, authors are doomed" — overreacting
 - "AI writing is obviously AI writing, nothing to worry about" — underestimating it
 
-The reality: AI *can* produce 780,000 characters with a complete structure and a readable story. But it *can't* write well — padding, templating, inconsistent characterization, these problems persist from start to finish. This is the actual level of top-tier models . No hype, no hate.
+The reality: AI *can* produce 780,000 characters with a complete structure and a readable story. But it *can't* write well — padding, templating, inconsistent characterization, these problems persist from start to finish. This is the actual level of current top-tier models. No hype, no hate.
 
 ### If you build AI
 
@@ -213,21 +211,13 @@ Long context ≠ long-range quality. The problems exposed across 780,000 charact
 ## 🔬 How to read
 
 - **For the story**: Start from `正文/第0001章.md` and go in order (Chinese only)
-- **To study AI issues**: Jump between these chapters for the starkest contrast
-  - Chapter 1 (opening, decent quality)
-  - Chapter 50 (mid-game, padding and templating at their worst)
-  - Chapter 100 (late-mid, personality starts drifting)
-  - Chapter 150 (turning point, system's speech pattern abruptly changes)
-  - Chapter 200 (late game, narrative formulas fully fossilized)
-  - Chapter 250 (pre-finale)
-  - Chapter 320 (grand finale)
 - **To evaluate AI's planning ability**: Read `大纲/总纲.md` first, then compare against the actual chapter execution
 
 ---
 
 ## ⚖️ License (unlocked by donations)
 
-Creating this novel cost real money (API calls, time, effort). So the license is tiered — the more support comes in, the more freedom everyone gets.
+Creating this novel was not cheap. The AI API costs alone were substantial — not to mention the time spent on project setup, toolchain debugging, and generation supervision, none of which is factored in. The license is tiered — the more support comes in, the more freedom everyone gets.
 
 ### Current status: 🔒 All rights reserved
 
@@ -241,8 +231,8 @@ Want to actually use the text? Read on — the license auto-upgrades when cumula
 | Cumulative donations | License | What you can do |
 | -------------------- | ------- | --------------- |
 | **0 – 599 CNY** | 🔒 All rights reserved | Read, share links, discuss |
-| **600 CNY** (half of creation cost) | 📝 **CC BY-NC-SA 4.0** | Copy, modify, create derivatives — but must attribute + non-commercial only + share alike |
-| **1200 CNY** (full creation cost) | 🔓 **MIT License** | Do whatever you want — commercial use, modifications, anything. Only requirement: keep the copyright notice |
+| **600 CNY** (covers only 45% of API costs) | 📝 **CC BY-NC-SA 4.0** | Copy, modify, create derivatives — but must attribute + non-commercial only + share alike |
+| **1200 CNY** (covers only 90% of API costs, excluding any time/labor) | 🔓 **CC BY 4.0** | Do whatever you want — commercial use, modifications, anything. Only requirement: attribution |
 
 ### What happens when a threshold is reached?
 
@@ -269,7 +259,7 @@ On the day cumulative donations hit a tier, I'll update the license in this file
 ## 🙋 FAQ
 
 **Q: How was it generated?**
-A: Using Claude Code's webnovel toolchain — project setup, outline planning, chapter-by-chapter generation, all done by the AI.
+A: Using Claude Code — project setup, outline planning, chapter-by-chapter generation, all done by the AI.
 
 **Q: Why a web novel?**
 A: Because web novels are the genre that tests sustained output the hardest: hundreds of chapters, hundreds of thousands of characters, multiple plot threads, characters that need to stay consistent across the whole run. These are exactly where AI is most likely to slip up.
